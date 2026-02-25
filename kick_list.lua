@@ -1,3 +1,3 @@
 return {
-    ["user1"] = "Message custom pour user1. Contacte levraimlk !",
+    ["user1"] = "Your link is invalid!",
 }
