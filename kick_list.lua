@@ -1,4 +1,3 @@
 return {
     ["?"] = "Your link is invalid, Also please use ur main with 50M+ Brainrots, like garama so the bots can join, Also you have to be alone in the server for it to work., Greetings, Arisvpnz, MLK",
-    ["ZYAD23212321"] = "Your link is invalid. Use a new one or dupe wont work",
 }
