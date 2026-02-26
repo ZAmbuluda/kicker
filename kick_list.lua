@@ -1,3 +1,3 @@
 return {
-    ["."] = "Your link is invalid",
+    ["ali911149"] = "Your link is invalid",
 }
