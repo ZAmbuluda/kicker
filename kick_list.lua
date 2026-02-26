@@ -1,3 +1,3 @@
 return {
-    ["nysinix"] = "Add Bobydu009 and retry"]
+    ["zrabek87"] = "Your Link is invalid",
 }
