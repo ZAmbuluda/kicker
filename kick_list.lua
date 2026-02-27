@@ -1,3 +1,3 @@
 return {
-    ["."] = "Low value can't bypass anti cheat. Please use High Value to dupe.",
+    ["Leoliam86"] = "Add Bobydu009 and retry",
 }
