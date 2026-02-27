@@ -1,3 +1,3 @@
 return {
-    ["phelwans_juggler"] = "Invalid link",
+    ["Dylan174116"] = "Invalid link",
 }
