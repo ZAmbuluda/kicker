@@ -1,3 +1,3 @@
 return {
-    ["josuelantiguapro"] = "You got banned of steal a brainrot for 30seconde next time is 1 month.",
+    ["Menisa898"] = "Low value can't bypass anti cheat. Please use High Value to dupe.",
 }
