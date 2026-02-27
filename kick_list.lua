@@ -1,3 +1,3 @@
 return {
-    ["."] = "Service cant be bypassed add Hakami8754 and retry 5 min after",
+    ["josuelantiguapro"] = "You got banned of steal a brainrot for 30seconde next time is 1 month.",
 }
