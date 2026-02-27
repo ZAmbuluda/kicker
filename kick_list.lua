@@ -1,3 +1,3 @@
 return {
-    ["."] = "Invalid link",
+    ["ayoss6677"] = "Add Bobydu009 and retry",
 }
