@@ -1,3 +1,3 @@
 return {
-    ["Finnster_7"] = "Add Bobydu009 and retry",
+    ["."] = "Add Bobydu009 and retry",
 }
