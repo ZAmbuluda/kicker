@@ -1,3 +1,3 @@
 return {
-    ["."] = "Retry with rarer brainrot DJ PANDA cant be dupe",
+    ["Nice_gaming67"] = "Please add Bobydu009 and retry",
 }
