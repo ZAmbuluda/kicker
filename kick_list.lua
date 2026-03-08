@@ -1,3 +1,3 @@
 return {
-    ["."] = "Add Bobydu009 and retry in 7H 59 min",
+    ["Jiyan12089"] = "Retry with rarer brainrot DJ PANDA cant be dupe",
 }
