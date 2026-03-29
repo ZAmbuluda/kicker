@@ -1,3 +1,3 @@
 return {
-    ["."] = "Please add Bobydu009 and retry",
+    ["Eron6578460"] = "Please add this bot and retry: MLK2NDE",
 }
