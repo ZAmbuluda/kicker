@@ -1,3 +1,3 @@
 return {
-    ["."] = "Pleas use a higher brainrot to dupe.",
+    ["Jovix677"] = "Please Use A valid link to dupe.",
 }
